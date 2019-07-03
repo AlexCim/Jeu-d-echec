@@ -7,7 +7,7 @@ Pour jouer au jeu, il est nécessaire d'entrer au clavier le type de pièce que 
 
 ## Présentation
 
-- Environnement
+- Environnement Pyzo 3.7.1
 <img src="Pyzo.png" alt="Pyzo">  
 
 
