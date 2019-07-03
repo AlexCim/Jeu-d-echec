@@ -7,8 +7,9 @@ Pour jouer au jeu, il est nécessaire d'entrer au clavier le type de pièce que 
 
 ## Présentation
 
--Environnement
+- Environnement
 <img src="Pyzo.png" alt="Pyzo">
 
--Apparence du jeu
+
+- Apparence du jeu
 <img src="CaptureECHEC.PNG" alt="CAPTURE">
