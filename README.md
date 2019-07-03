@@ -12,4 +12,4 @@ Pour jouer au jeu, il est nécessaire d'entrer au clavier le type de pièce que 
 
 
 - Apparence du jeu
-<img src="CaptureECHEC.PNG" alt="CAPTURE">   <img src="Capture2ECHEC.PNG" alt="CAPTURE2">
+<img src="CaptureECHEC.PNG" alt="CAPTURE">   <img src="CaptureECHEC2.PNG" alt="CAPTURE2">
